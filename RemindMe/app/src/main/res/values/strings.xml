@@ -3,6 +3,12 @@
     <string name="search_title">Search</string>
     
     <string name="menu_item_notification">Напоминания</string>
+
     <string name="view_navigation_open">Открыть</string>
     <string name="view_navigation_close">Закрыть</string>
+
+    <string name="tab_item_history">История</string>
+    <string name="tab_item_ideas">Идеи</string>
+    <string name="tab_item_todo">Задача</string>
+    <string name="tab_item_event">События</string>
 </resources>
