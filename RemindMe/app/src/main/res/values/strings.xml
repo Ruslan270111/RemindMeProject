@@ -9,6 +9,6 @@
 
     <string name="tab_item_history">История</string>
     <string name="tab_item_ideas">Идеи</string>
-    <string name="tab_item_todo">Задача</string>
+    <string name="tab_item_todo">Задачи</string>
     <string name="tab_item_event">События</string>
 </resources>
